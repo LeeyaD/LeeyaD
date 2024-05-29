@@ -6,7 +6,9 @@
 
 I'm a software engineer based in NYC, looking to leverage my background in communication and problem-solving, to excel at a great company!
 
-My exceptional interpersonal communication skills allow me to work well in a collaborative environment and independently. Working for the City of New York helped me refine these and other skills such as open-mindedness, organization, and empathy.
+I enjoy problem-solving, and opt for a structured approach because I recognize the importance of understanding the problem I’m trying to solve first. A well-thought-out algorithm is better than writing a premature solution based on assumptions made at a glance.
+
+I have a strong command of Ruby and JavaScript, as well as a deep understanding of programming concepts. This solid background allows me to ramp up on new technologies quickly, much like a polyglot learning their 3rd or 4th language.
 
 I am passionate about continuing education and look forward to adding to my skill set with the goal of deepening my cloud computing skills by becoming a certified AWS Solutions Architect Associate by the end of 2024.
 
