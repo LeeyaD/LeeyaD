@@ -4,9 +4,9 @@
 
 # Hello, I'm Leeya! :smile:
 
-I'm a software engineer based in NYC, with a strong command of Ruby and JavaScript, as well as a deep understanding of programming concepts. This solid background allows me to ramp up on new technologies quickly, much like a polyglot learning their 3rd or 4th language.
+I'm a software engineer based in NYC, with a strong command of Ruby and JavaScript, as well as a deep understanding of programming concepts.
 
-I enjoy problem-solving, and opt for a structured approach because I recognize the importance of understanding the problem I’m trying to solve first. A well-thought-out algorithm is better than writing a premature solution based on assumptions made at a glance.
+I enjoy problem-solving, and opt for a structured approach because I believe a well-thought-out algorithm is better than writing a premature solution based on assumptions made at a glance.
 
 I am passionate about continuing education and look forward to adding to my skill set with the goal of deepening my cloud computing skills by becoming a certified AWS Solutions Architect Associate by the end of 2024.
 
@@ -20,7 +20,7 @@ I am passionate about continuing education and look forward to adding to my skil
 
 #### :sparkles: Twine Real-Time :sparkles:
 
-I recently created [Twine](https://twine-realtime.github.io/), an open-source, scalable WebSocket service with connection state recovery. It's for developers looking to add real-time functionality to their existing applications
+I recently created [Twine](https://twine-realtime.github.io/), an open-source, scalable WebSocket service with connection state recovery. It's for developers looking to add real-time functionality to their existing applications!
 
 :eyes: [Check out the case study!](https://twine-realtime.github.io/case-study)
 
