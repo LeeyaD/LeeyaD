@@ -12,13 +12,13 @@ I am passionate about continuing education and look forward to adding to my skil
 
 ### What I'm doing
 
-#### :fox_face: I'm a Firefox Community Contributer!
+:fox_face: I'm a Firefox Community Contributer!
 
-#### :construction: Certified AWS Solutions Architect by the end of 2024 :construction:
+:construction: Certified AWS Solutions Architect by the end of 2024 :construction:
 
 ### What I've done
 
-#### :sparkles: Twine Real-Time :sparkles:
+:sparkles: Twine Real-Time :sparkles:
 
 I recently created [Twine](https://twine-realtime.github.io/), an open-source, scalable WebSocket service with connection state recovery. It's for developers looking to add real-time functionality to their existing applications!
 
