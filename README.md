@@ -4,9 +4,9 @@
 
 # Hello, I'm Leeya! :smile:
 
-I'm a software engineer based in NYC, with a strong command of Ruby and JavaScript, as well as a deep understanding of programming concepts.
+I'm a software engineer based in NYC, who enjoys problem solving!
 
-I enjoy problem-solving, and opt for a structured approach because I believe a well-thought-out algorithm is better than writing a premature solution based on assumptions made at a glance.
+I have a deep appreciation for the structured approach because I believe a well-thought-out algorithm is better than writing a premature solution based on assumptions made at a glance.
 
 I am passionate about continuing education and look forward to adding to my skill set with the goal of deepening my cloud computing skills by becoming a certified AWS Solutions Architect Associate by the end of 2024.
 
